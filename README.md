@@ -1,2 +1,1 @@
-# Intermediate-CSS-Motivational-Poster-Website
-Intermediate-CSS-Motivational-Poster-Website
+# CSS-Properties-Motivational-Poster-Website
